@@ -1,6 +1,7 @@
 Create table clientes (
-    cliente_id serial primary key not null,
-    cliente_nombre varchar (60) not null,
-    cliente_nit varchar (10) not null,
-    cliente_situacion smallint not null default 1
+    cliente_id serial NOT NULL,
+    cliente_nombre varchar (70) NOT NULL,
+    cliente_nit varchar (15) NOT NULL,
+    cliente_situacion smallint NOT NULL default 1,
+     primary key (cliente_id)
 );
