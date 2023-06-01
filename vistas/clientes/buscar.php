@@ -12,13 +12,13 @@
                 </div>
                 <div class="row mb-3">
                     <div class="col">
-                        <label for="cliente_nit">Nit del Cliente</label>
+                        <label for="cliente_nit">Numero Nit del Cliente</label>
                         <input type="number" step="0.01" min="0" name="cliente_nit" id="cliente_nit" class="form-control">
                     </div>
                 </div>
                 <div class="row mb-3">
                     <div class="col">
-                        <button type="submit" class="btn btn-info w-100">Buscar</button>
+                        <button type="submit" class="btn btn-primary w-100">Buscar</button>
                     </div>
                 </div>
             </form>

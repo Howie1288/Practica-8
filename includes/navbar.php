@@ -1,13 +1,13 @@
-<nav class="navbar navbar-dark navbar-expand-lg bg-dark">
+<nav class="navbar navbar-dark navbar-expand-lg bg-dark" >
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <a class="navbar-brand" href="#">Tienda virtual  Clientes</a>
+            <a class="navbar-brand" href="#">Tienda virtual de Clientes</a>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" aria-current="page" href="#">Inicio</a>
                 </li>
               
                 <li class="nav-item dropdown">
@@ -16,10 +16,10 @@
                     </a>
                     <ul class="dropdown-menu bg-dark">
                         <li class="nav-item">
-                            <a class="nav-link" href="/Practica-8/vistas/clientes/index.php">Agregar Cliente</a>
+                            <a class="nav-link" href="/Practica-8/vistas/clientes/index.php">Agregar Clientes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/Practica-8/vistas/clientes/buscar.php">Buscar Cliente</a>
+                            <a class="nav-link" href="/Practica-8/vistas/clientes/buscar.php">Buscar Clientes</a>
                         </li>
                     </ul>
                 </li>
